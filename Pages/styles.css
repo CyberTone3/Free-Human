@@ -1,0 +1,15 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+.container {
+    display: flex;
+    margin: 0;
+}
+.d-flex { 
+    background-color: rgba(55, 47, 37, 0.405);
+}
+.col-md-3.text-end {
+    
+    margin: 0 25px;
+}
